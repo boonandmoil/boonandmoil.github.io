@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>128</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="97.8996694%" y1="50%" x2="1.11022302e-14%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C96DD8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="128" fill="url(#linearGradient-1)">
+            <g id="mountains" transform="translate(10.000000, 20.000000)">
+                <g>
+                    <path d="M54.3990725,88 L108.798145,88 L64.5972374,0 L54.3985606,20.3052525 L44.1995766,0 L0,88 L54.3990725,88 Z" id="Combined-Shape" style="mix-blend-mode: darken;"></path>
+                    <polygon id="Triangle-Copy-14" style="mix-blend-mode: multiply;" points="44.0995561 40.6153846 67.8864618 88 20.3975204 88"></polygon>
+                    <polygon id="Triangle-Copy-16" style="mix-blend-mode: multiply;" points="64.6988874 40.6153846 88.4989468 87.9991451 40.8995448 87.9991451"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

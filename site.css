@@ -16,10 +16,15 @@
 body {
   padding-bottom: 3rem;
   color: #5a5a5a;
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 
 .navbar {
   background-color: #20124d !important;
+}
+
+.nav-link, .serif {
+  font-family: 'IBM Plex Serif', serif;
 }
 
 .carousel {
@@ -78,4 +83,16 @@ body {
   .featurette-heading {
     font-size: 50px;
   }
+}
+
+.pt-md-11, .py-md-11 {
+  padding-top: 6em !important;
+}
+
+.navbar-brand-img {
+  height: 48px;
+}
+
+.text-lightweight {
+  font-weight: 100;
 }
