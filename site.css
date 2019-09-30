@@ -53,14 +53,10 @@ body {
 
 .team .col-lg-4 {
   margin-bottom: 1.5rem;
-  text-align: center;
+  
 }
 .team h2 {
   font-weight: 400;
-}
-.team .col-lg-4 p {
-  margin-right: 0.75rem;
-  margin-left: 0.75rem;
 }
 
 .featurette-divider {
