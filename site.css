@@ -23,6 +23,10 @@ body {
   background-color: #20124d !important;
 }
 
+.text-purple {
+  color: #3023AE;
+}
+
 .nav-link, .serif {
   font-family: 'IBM Plex Serif', serif;
 }
