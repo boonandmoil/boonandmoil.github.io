@@ -27,6 +27,20 @@ body {
   color: #3023AE;
 }
 
+.background-purple {
+  background: #3023AE;
+  border-color: #3023AE;
+}
+
+.background-purple:hover {
+  background: #B670D0;
+  border-color: #B670D0;
+}
+
+.smokefree-green {
+  color:#62AC28;
+}
+
 .nav-link, .serif {
   font-family: 'IBM Plex Serif', serif;
 }
